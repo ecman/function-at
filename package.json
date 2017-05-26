@@ -33,8 +33,8 @@
     "function",
     "ecman"
   ],
-  "author": "",
-  "license": "ISC",
+  "author": "ecman <its.ec@outlook.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ecman/function-at/issues"
   },
