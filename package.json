@@ -1,0 +1,45 @@
+{
+  "name": "function-at",
+  "version": "1.0.0-0",
+  "description": "Pass functions with adjusted arguments",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "istanbul": "^0.4.5"
+  },
+  "scripts": {
+    "test": "istanbul cover test",
+    "preversion": "npm test",
+    "postversion": "git push && git push --tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecman/function-at.git"
+  },
+  "keywords": [
+    "function arguments",
+    "argument binding",
+    "argument",
+    "callbacks",
+    "pass by reference",
+    "function parameters",
+    "bind-arguments",
+    "utility function",
+    "higher order function",
+    "utility",
+    "function",
+    "ecman"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ecman/function-at/issues"
+  },
+  "homepage": "https://github.com/ecman/function-at#readme",
+  "engines": {
+    "node": ">=0.10.48"
+  }
+}
