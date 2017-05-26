@@ -1,5 +1,7 @@
 # function-at
 
+[![build status](https://api.travis-ci.org/ecman/function-at.png)](https://travis-ci.org/ecman/function-at) [![codecov](https://codecov.io/gh/ecman/function-at/branch/master/graph/badge.svg)](https://codecov.io/gh/ecman/function-at) [![Code Climate](https://codeclimate.com/github/ecman/function-at/badges/gpa.svg)](https://codeclimate.com/github/ecman/function-at)
+
 Pass functions with adjusted arguments
 
 # Usage
