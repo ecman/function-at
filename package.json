@@ -1,6 +1,6 @@
 {
   "name": "function-at",
-  "version": "1.0.0-0",
+  "version": "1.0.0",
   "description": "Pass functions with adjusted arguments",
   "main": "index.js",
   "directories": {
